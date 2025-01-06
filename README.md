@@ -78,14 +78,6 @@ Ascenseur Builder est un script **FiveM** développé pour créer et gérer des 
 3. **Persistance**
    - Tous les ascenseurs et étages sont sauvegardés dans la base de données et automatiquement rechargés après un redémarrage.
 
-## Captures d'Écran
-
-_Ajoutez ici vos captures d'écran en jeu._
-
 ## Problèmes Connus
 
 - Aucun pour le moment. Merci de signaler tout problème en créant un ticket sur notre discord https://discord.gg/CCVAwUCYBn
-
-## Mises à Jour Futures
-
-- Amélioration de
