@@ -1,6 +1,6 @@
 # Ascenseur Builder by BLK 🚀
 
-Ascenseur Builder est un script **FiveM** développé pour créer et gérer des ascenseurs directement en jeu. Ce script permet aux joueurs de se téléporter entre différents étages grâce à un système de menu intuitif. Il est hautement personnalisable et conçu pour améliorer les scénarios de roleplay sur votre serveur.
+Ascenseur Builder est un script **FiveM** développé pour créer et gérer des ascenseurs directement en jeu. Ce script permet aux joueurs de se téléporter entre différents étages grâce à un système de menu en RageUI.
 
 ## Fonctionnalités
 
